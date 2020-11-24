@@ -9,8 +9,6 @@ In this project, I analyzed my personal netflix data and then communicated my fi
 * Matplotlib
 * csv
 
-### It installed Anaconda, which comes with all of the necessary packages, as well as IPython notebook.
-
 ## Why this Project?
 > In this project, I went through the data analysis process and saw how everything fit together. I also used the Python libraries NumPy, pandas, and Matplotlib, which made writing data analysis code in Python a lot easier!
 
